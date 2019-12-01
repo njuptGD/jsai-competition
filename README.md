@@ -1,6 +1,4 @@
----
-title: 掼蛋及三国杀人工智能平台
----
+
 ![](./post.png)
 
 
@@ -22,5 +20,5 @@ title: 掼蛋及三国杀人工智能平台
 
 + 本平台由南京邮电大学人工智能博弈研究组开发，遇到与平台相关的问题或其他建议可以通过以下联系方式向我们反馈，也可通过issue的形式发起讨论。 
   + 陈老师 chenxg@njupt.edu.cn
-  + 吴多丰 wuguduofeng@gmail.com
+  + 吴同学 wuguduofeng@gmail.com
 
